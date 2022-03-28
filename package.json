@@ -1,0 +1,11 @@
+{
+  "name": "taro-background-audio",
+  "version": "1.2.0",
+  "description": "基于taro开发的背景音频播放组件，有问题联系936425776@qq.com。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
