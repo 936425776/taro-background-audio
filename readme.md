@@ -1,4 +1,3 @@
-### 代码借鉴 [`taro-audio`](https://www.npmjs.com/package/taro-audio) 开发的背景播放版本！！！
 ### 若需要小程序在退到后台后继续播放音频，你需要在 app.json 中配置 requiredBackgroundModes 属性，详见:[`微信小程序官方文档`](https://developers.weixin.qq.com/miniprogram/dev/reference/configuration/app.html#requiredBackgroundModes)。
 
 ## 代码演示
